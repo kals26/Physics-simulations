@@ -1,4 +1,4 @@
- #Simple walk
+ #Simple quantum walk
  #Define measurement, aka, probabilties. Later, define what state post measurement looks like.
  #Define the hadamard transformation you wish to do (45'). Define shift operator.
  #Initialise all the values for the variables mentioned before
