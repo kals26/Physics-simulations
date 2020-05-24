@@ -1,5 +1,5 @@
 # Physics-simulations
-# Hello, this has mainly two versions of double pendulum simnulation,
+# Hello, this has mainly two versions of double pendulum simulation,
 # One on simple pendulum characteristics, another on a Ulam's spiral of primes (Or, polar plots of p,p)
 # There's one on simulating a quantum walk, which needs to be edited as the coin space roation is fixed at 45 deg.
 # There's one on estimating time taken for executing a quantum walk for N steps, but it's pretty raw and unoptimised.
